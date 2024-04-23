@@ -1,0 +1,6 @@
+langchain-openai
+langchian-core
+python-dotenv
+streamlit
+langchain-community
+flask
