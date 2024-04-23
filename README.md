@@ -43,12 +43,18 @@ This is a simple chatbot application built using the LLama3 model from OpenAI. T
 
 4. In `.env` file paste your Langchain API ke.
 
+3. Run this command:
+
+   ```bash
+   flask --app app.py runn
+   ```
+
 5. Open your browser and go to `http://localhost:5000` to access the chatbot.
 
 ## Usage
 
 - Enter your query in the input field and click "Submit."
-- The chatbot will process your query and provide a response.
+- The chatbot will process your query and respond.
 
 ## Customization
 
