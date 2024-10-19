@@ -66,5 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- OpenAI for providing the LLama3 model.
+- Meta for providing the LLama3 model.
 - Bootstrap for the frontend styling.
