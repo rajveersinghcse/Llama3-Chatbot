@@ -1,7 +1,7 @@
 
 # Chatbot with LLama3
 
-This is a simple chatbot application built using the LLama3 model from OpenAI. The chatbot is deployed using Flask and can be accessed via a web interface.
+This is a simple chatbot application built using the LLama3 model from Meta. The chatbot is deployed using Flask and can be accessed via a web interface.
 
 <o><img height="400" width="1000" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/llama3.png" alt="llama"></p>
 
@@ -66,5 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- OpenAI for providing the LLama3 model.
+- Meta for providing the LLama3 model.
 - Bootstrap for the frontend styling.
